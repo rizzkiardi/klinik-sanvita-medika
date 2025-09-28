@@ -12,11 +12,11 @@
 
         <!-- Open Graph / Facebook / WhatsApp -->
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://rizkiardi.vercel.app/" />
+        <meta property="og:url" content="https://klinik-sanvita-medika.up.railway.app/" />
         <meta property="og:title" content="Klinik Sanvita Medika - Klinik Kesehatan Profesional dengan layanan Medis Terpadu, Pemeriksaan Umum, Konsultasi Dokter, dan Perawatan Berkualitas untuk Keluarga Anda." />
         <meta
         property="og:image"
-        content="https://rizkiardi.vercel.app/rizkiardi.png"
+        content="https://klinik-sanvita-medika.up.railway.app/rizkiardi.png"
         />
         <meta property="og:image:type" content="image/png" />
         <meta
