@@ -13,7 +13,7 @@ return [
     |
     */
 
-    'name' => ('Klinik Sanvita Medika'),
+    'name' => env('APP_NAME', 'Klinik Sanvita Medika'),
 
     /*
     |--------------------------------------------------------------------------
